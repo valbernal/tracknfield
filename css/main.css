@@ -131,6 +131,21 @@ aside {
 	font-size: 20px;
 }
 
+.staff{
+	margin-bottom: 10px;
+	font-weight: 800;
+	letter-spacing: 2px;
+	font-size: 20px;
+	float:left;
+		display: block;
+		text-align: center;
+}
+
+.staff-elements{
+	width: 100%;
+	float: left;
+	width: 223px;
+}
 
 /* Logo H1 */
 header h1 {
@@ -216,4 +231,6 @@ h2{
 		padding: 10px;
 		text-align: center;
 	}
+
+
 }
