@@ -1,0 +1,4 @@
+Footer
+Extra paragraph in index page
+White banner should span whole page
+Calendar elements should be reactive

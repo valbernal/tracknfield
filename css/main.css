@@ -72,11 +72,65 @@ aside {
     float: right;
 }
 
+.row {
+    width: 960px;
+    max-width: 100%;
+    min-width: 640px;
+    margin: 0px auto 25px;
+    text-transform: none;
+    text-decoration: none;
+}
+
+.calendar-event{
+	color:#FFF;
+	text-decoration:none;
+}
+
+.calendar-event:hover{
+	color:#2cb2ff;
+}
+
+.inner-elements{
+	margin: 10px;
+}
+
+.one{
+	max-width:960px;
+	background:none repeat scroll 0% 0% #1f2127;
+	padding:5px 25px;
+	margin-bottom:4px;
+	margin-top: 10px;
+	white-space: normal;
+}
+
+.event-details{
+	font-size:13px;
+	font-weight:normal;
+	margin-top:-9px;
+}
+
+.day{
+	font-size:13px;
+	font-weight:bold;
+}
+
 #white-banner {
 	background: none repeat scroll 0% 0% #FFF;
 	width: 100%;
 	height: 30px;
 }
+
+.no-upper{
+	text-transform: none;
+}
+
+.month{
+	margin-bottom: 10px;
+	font-weight: 800;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+
 
 /* Logo H1 */
 header h1 {
