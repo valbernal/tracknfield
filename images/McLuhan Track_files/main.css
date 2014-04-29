@@ -237,19 +237,6 @@ h2{
 	width: 100%;
 }
 
-.footer {
-    font-size: 12px;
-   
-    float: left;
-    width: 100%;
-    background: none repeat scroll 0% 0% #1F2127;
-    bottom:0;
-    margin-top: 20%;
-    padding: 10px;
-    position:relative;
-
-}
-
 /* Media Queries */
 @media screen and (max-width:480px) {
 	#skipTo {
