@@ -90,6 +90,10 @@ aside {
 	color:#2cb2ff;
 }
 
+.coach:hover{
+	color:#2cb2ff;
+}
+
 .inner-elements{
 	margin: 10px;
 }
@@ -137,14 +141,30 @@ aside {
 	letter-spacing: 2px;
 	font-size: 20px;
 	float:left;
-		display: block;
-		text-align: center;
+	display: block;
+	text-align: center;
 }
+
+
 
 .staff-elements{
 	width: 100%;
 	float: left;
 	width: 223px;
+	margin-right: 5%;
+}
+
+.people{
+	background: none repeat scroll 0% 0% #1F2127;
+}
+
+.name{
+	font-size:13px;
+	font-weight:bold;
+}
+
+.role{
+
 }
 
 /* Logo H1 */
@@ -232,5 +252,8 @@ h2{
 		text-align: center;
 	}
 
+	.staff-elements{
+		float: none;
+	}
 
 }
